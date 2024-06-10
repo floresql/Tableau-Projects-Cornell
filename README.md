@@ -1,4 +1,4 @@
-# Data Science with SQL and Tableau - Cornell University 
+# Cornell University  - Data Science with SQL and Tableau
 
 Welcome to my Tableau Public profile repository! This repository serves as a gateway to explore my Tableau visualizations created as part of the Cornell University Data Science Certificate program.
 
