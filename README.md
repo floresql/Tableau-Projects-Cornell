@@ -1,4 +1,5 @@
-# Cornell University Data Science with SQL and Tableau Certificate
+# Data Science with SQL and Tableau Certificate
+# - Cornell University 
 
 Welcome to my Tableau Public profile repository! This repository serves as a gateway to explore my Tableau visualizations created as part of the Cornell University Data Science Certificate program.
 [Tableau Public Profile](https://public.tableau.com/app/profile/floresql.123/vizzes)
